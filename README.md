@@ -5,4 +5,4 @@ CVE漏洞分析合集-持续更新
 
 PortalLab 公众号
 
-![1663842803249](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1663842803249.png)
+![image](https://github.com/StarCrossPortal/VulnsDB/blob/master/assets/Portal_wechat.jpg)
